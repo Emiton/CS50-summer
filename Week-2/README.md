@@ -1,2 +1,3 @@
-[Back to Main Page](https://github.com/Emiton/CS50-summer)
-[Back to Main Page](https://github.com/Emiton/CS50-summer)
+[Back to Main Page](https://github.com/Emiton/CS50-summer)  
+More information will be added soon...  
+[Back to Main Page](https://github.com/Emiton/CS50-summer)  
