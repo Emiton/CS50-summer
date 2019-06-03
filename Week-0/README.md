@@ -7,7 +7,7 @@ In week 0 we are going to cover some basic skills that all computer scientists u
 
 We will also introduce you to some key introductory concepts via the CS50 lecture. Take a look at the TODO list below in order to see what must be completed this week.  
 
-## TODO
+## TODO - Due Sunday 6/9/19
 * Create a post in Piazza and introduce yourself. Tell us about your interests or what you hope to accomplish this summer.  
 * Watch [CS50 Lecture 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/bdc606f10e7347f6a61a341c4544bbf7/179cbcd8dbbb4ac39d922c40d5c06ced/2?activate_block_id=block-v1%3AHarvardX%2BCS50%2BX%2Btype%40vertical%2Bblock%40610ce8bf84d845d2a0397defee797f58)
     * We will be following the 2018 version of CS50, **Not the 2019 verison**. Make sure to click the 2018 dropdown like in the photo below.
