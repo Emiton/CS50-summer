@@ -10,5 +10,5 @@ We will also introduce you to some key introductory concepts via the CS50 lectur
 * Watch CS50 Lecture 0
 * Complete Codecademy Command Line Course Section 1 and 2
     * _Note:_ If you are not sure which sections you have completed, please click [insert info to see sections]
-* Complete Gitimmersion labs from lab 1 until lab 18  [Remember to add link]
+* Complete Gitimmersion labs from lab 1 until lab 18  [Remember to add link]  
 [Back to Main Page](https://github.com/Emiton/CS50-summer)  
