@@ -5,7 +5,7 @@ Hi, and welcome to the landing page for the CS50 summer program. The links provi
 ## Teaching Assistants
 If you have any questions please feel free to contact one of the TAs. Information is provided below.  
 
-Emiton  
+### Emiton  
 ### Email: emiton_alves@my.uri.edu  
 ### Availability
 
@@ -19,7 +19,7 @@ Friday | After 5:30pm
 Saturday | 8:00am - 2:00pm
 Sunday | 8:00am - 2:00pm, After 6:00pm  
 
-Olivia  
+### Olivia  
 ### Email: ocoffey@my.uri.edu  
 ### Availability
 
