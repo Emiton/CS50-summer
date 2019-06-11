@@ -1,6 +1,43 @@
 # CS50 Summer Program Help Page
 ## Intro
-Hi, and welcome to the landing page for the CS50 summer program. The links provided below will provide you with all of the information that you need for the following weeks. Please click on _**"Setup"**_ below in order to complete all the necessary steps to begin the program. After following all of the steps in the "Setup" portion, click on week 0 to begin the first week of the CS50 summer program.   
+Hi, and welcome to the landing page for the CS50 summer program. The links provided below will provide you with all of the information that you need for the following weeks. Please click on _**"Setup"**_ below in order to complete all the necessary steps to begin the program. After following all of the steps in the "Setup" portion, click on week 0 to begin the first week of the CS50 summer program.  
+
+## Syllabus
+* Week 0
+    * Terminal
+    * Git
+    * Watch Week 0 Lecture
+    * Codecademy Command Line exercise
+    * Git tutorial
+* Week 1
+    * Data types, command line, operators, conditional statements, loops
+    * Watch Week 1 Lecture
+    * Complete Problem Set 1
+        * Complete `Hello`
+        * Complete `Mario` less comfortable or more comfortable
+        * Complete `Cash` or `Credit`
+* Week 2
+    * Debugging, functions, variables, scope, arrays, command line arguments
+    * Watch Week 1 continued Lecture
+    * Complete Problem Set 2
+* Week 3
+    * Complexity, sorting, recursion
+    * Watch Week 2 Lecture
+    * Complete Problem Set 3
+* Week 4
+    * Stacks, file pointers, memory allocation
+    * Watch Week 3 Lecture
+    * Start Problem Set 4
+* Week 5
+    * Pointers, hexadecimal
+    * Complete Problem Set 4
+* Week 6
+    * Structs, custom types, hash tables
+    * Watch Week 4 Lecture
+    * Start Problem Set 5
+* Week 7
+    * Tries, stacks, queues
+    * Complete Problem Set 5
 
 ## Teaching Assistants
 If you have any questions please feel free to contact one of the TAs. Information is provided below.  
