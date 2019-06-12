@@ -15,7 +15,7 @@ This week we will be finally be getting into some code. This week you will have 
 * __How to make a file:__ In order to make in a file in your command line, use the command `touch <filename>`. For example to create a file named hello.c you will type `touch hello.c`.  
 * __How to open a file:__ In order to open a file in the editor type `open <filename>`. For example to open the file hello.c you would type `open hello.c`. This should open the file in a text editor that you can edit the file in.  
 * __How to check style:__ When writing code, you want to use a consistent formatted style. In order to check if your code is properly formatted use the command `style50`. For example, to check the style of a file named hello.c, you would type `style50 hello.c`
-* __How to check your code:__ In order to check if your code is correct, you will use `check50`. Each problem will show you how to use check50 in the submission details. Make sure to run check5o in the same folder where your code is.  
+* __How to check your code:__ In order to check if your code is correct, you will use `check50`. Each problem will show you how to use check50 in the submission details. Make sure to run `check50` in the same folder where your code is.  
 * __Process for writing code__
     1. If you make changes to a file in a text editor, always make sure to save the file. Unlike Microsoft Word or Google Docs, the text editor __WILL NOT__ save changes for you.
     2. After saving your code, use the command `make <filename>` to *compile* your code. *Compiling* is a step which takes your code and turns it into a special file type that the computer can execute. If you make changes to your code, make sure to **SAVE AND COMPILE AGAIN**. You must save and recompile everytime!
