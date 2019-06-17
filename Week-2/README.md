@@ -1,7 +1,7 @@
 [Back to Main Page](https://github.com/Emiton/CS50-summer)  
 ## Intro
 Hello all,  
-This week we will be learning about arrays and strings. We will be taking everything we learned last week and apply it to solving cryptography problems.
+This week we will be learning about arrays and strings. We will be taking everything we learned last week and applying it to cryptography problems.
 
 ## TODO - Due Sunday 
 1. [Watch CS50 week 1 continued lecture](https://video.cs50.net/2017/fall/lectures/2?t=0m1s)
