@@ -6,4 +6,5 @@ Hello all and welcome to week 3 of the CS50 summer program. This week we will be
 2. [Complete Problem Set 3](https://docs.cs50.net/2018/x/psets/3/pset3.html)
 # Tips and Tricks
 * You don't need to know much music theory to get through this problem set. The main thing you should focus on is how many __*"steps"*__ does it take to get from one key to another. This will be main thing driving your algorithm.  
+
 [Back to Main Page](https://github.com/Emiton/CS50-summer)  
